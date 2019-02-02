@@ -1,5 +1,5 @@
 def my_hash
-  clothes_in_closet = {"Shirts" => ""
+  clothes_in_closet = {"Shirts" => "6", "Pants" => "5"}
 end
 
 
